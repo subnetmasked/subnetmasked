@@ -4,7 +4,7 @@
 - 👀 I’m interested in ruby, privacy and open-source projects.
 - 🌱 I’m currently learning ruby.
 - 💞️ I’m looking to collaborate on [sshman](https://github.com/subnetmasked/sshman)
-- 📫 You can reach me at [my E-mail](mailto:subnetmasked@cock.li)
+- 📫 You can reach me at [my E-mail](mailto:subnetmasked@cock.li) or at [Keybase.io](https://keybase.io/mrsubnetmasked)
 ---
 ## Very important message
 ```base64
